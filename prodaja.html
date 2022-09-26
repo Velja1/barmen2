@@ -1,0 +1,163 @@
+<!DOCTYPE HTML>
+<!--
+	Spatial by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Barmen Yachting</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Barmen Jachting">
+  		<meta name="keywords" content="Barmen,Jachting,jahte,gliseri">
+  		<meta name="author" content="Veljko Vulović">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/jahta.ico">
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<h1><strong><a href="index.html">Barmen</strong> Yachting</h1></a>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">Početna</a></li>
+						<li><a href="plovila.html">Plovila</a></li>
+						<li><a href="prodaja.html">Prodaja plovila</a></li>
+						<li><a href="proizvodi.html">Proizvodi</a></li>
+					</ul>
+				</nav>
+			</header>
+			<header id="header2">
+				<ul id="meni">
+					<li><a href="#"><img id="hamburger" src="images/hamburger.png" alt="Meni"/></a>
+						<ul class="active">
+							<li><a href="index.html">Početna</a></li>
+							<li><a href="plovila.html">Plovila</a></li>
+							<li><a href="prodaja.html">Prodaja plovila</a></li>
+							<li><a href="proizvodi.html">Proizvodi</a></li>
+						</ul>
+					</li>
+				</ul>
+			</header>
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="container">
+					<header class="major special align-center">
+						<h2>Prodaja plovila</h2>
+						<p>U narednom delu prikazan je cenovnik naših plovila. Takođe nudimo vam mogućnost da zakažete posetu putem forme i da pogledate naša plovila. </p>
+					</header>
+	
+					<!-- Table -->
+						<section>
+							<h3 class="align-center">Cenovnik</h3>
+							<div class="table-wrapper">
+								<table id="tabela"></table>
+							</div>
+						</section>
+
+					<!-- Image -->
+						<section id="imageSection">
+							<div id="divImage"></div>
+						</section>
+
+					<!-- Form -->
+						<section id="formaSection">
+							<article id="slikaForma">
+								<img src="images/letter.png" alt="Pismo"/>
+							</article>
+							<article id="forma">
+								<h3 class="align-center">Kontakt forma</h3>
+								<form method="post" action="#">
+									<div class="row uniform 50%">
+										<div class="12u$">
+											<input type="text" name="tbIme" id="tbIme" value="" placeholder="Unesite ime"/>
+											<p class="greska" id="imeGreska"></p>
+										</div>
+										<div class="12u$">
+											<input type="text" name="tbPrezime" id="tbPrezime" value="" placeholder="Unesite prezime"/>
+											<p class="greska" id="prezimeGreska"></p>
+										</div>
+										<div class="12u$">
+											<input type="text" name="tbBroj" id="tbBroj" value="" placeholder="Unesite Vaš broj telefona u formatu (06X/XXX-XXXX)"/>
+											<p class="greska" id="brojGreska"></p>
+										</div>
+										<div class="12u$">
+											<input type="email" name="tbEmail" id="tbEmail" value="" placeholder="Unesite email"/>
+											<p class="greska" id="emailGreska"></p>
+										</div>
+										<div class="12u$">
+											<input type="text" name="tbDatum" id="tbDatum" value="" placeholder="Unesite datum posete u formatu (YYYY-MM-DD)"/>
+											<p class="greska" id="datumGreska"></p>
+										</div>
+										<div class="12u$">
+											<div class="select-wrapper" id="divSelectTip"></div>
+											<p class="greska" id="tipGreska"></p>
+										</div>
+										<div class="12u$">
+											<div class="select-wrapper" id="divSelectPlovilo""></div>
+											<p class="greska" id="ploviloGreska"></p>
+										</div>
+										<p>Da li želite da dobijate novosti na Vašu email adresu?</p>
+										<div id="divNovosti">
+											<span>
+												<input type="radio" id="rbNovostiDa" name="rbNovosti"/>
+												<label for="rbNovostiDa">Da</label>
+											</span>
+											<span>
+												<input type="radio" id="rbNovostiNe" name="rbNovosti"/>
+												<label for="rbNovostiNe">Ne</label>
+											</span>
+											<p class="greska" id="novostiGreska"></p>
+										</div>
+									</div>
+									<div class="12u$" style="margin-top:51px">
+										<textarea name="message" id="tbDodatni" placeholder="Unesite vaše dodatne zahteve (do 1000 karaktera)" rows="6"></textarea>
+										<p class="greska" id="dodatniGreska"></p>
+									</div>
+									<div class="6u 12u$(small)"style="margin-top:20px;">
+										<input type="checkbox" id="cbUslovi" name="cbUslovi"/>
+										<label for="cbUslovi">Da li prihvatate naše uslove korišćenja?</label>
+										<p class="greska" id="usloviGreska"></p>
+									</div>
+									<div class="12u$">
+										<ul class="actions">
+											<li><input type="button" id="btnPosalji" value="Pošalji" class="special" /></li>
+											<li><input type="reset" id="btnPonisti" value="Poništi" /></li>
+										</ul>
+									</div>
+									<div class="12u$">
+										<p id="uspesno"></p>
+									</div>
+								</form>
+							</article>
+						</section>
+
+					</div>
+				</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="container">
+					<ul class="icons">
+						<li><a href="http://facebook.com" target="_blank" class="icon fa-facebook"></a></li>
+						<li><a href="http://twitter.com" target="_blank" class="icon fa-twitter"></a></li>
+						<li><a href="http://instagram.com" target="_blank" class="icon fa-instagram"></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Veljko Vulović</li>
+						<li><a href="oautoru.html">O autoru</a></li>
+						<li><a href="sitemap.xml">Sitemap</a></li>
+						<li><a href="dokumentacija.pdf">Dokumentacija</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+			<script src="assets/js/prodaja.js"></script>
+			<script src="assets/js/header.js"></script>		
+	</body>
+</html>

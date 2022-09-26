@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "slika":{
+            "putanja": "images/cranchie52.jpg",
+            "alt": "Cranchi E52"
+        },
+        "slikaInterior": {
+            "putanja": "images/cranchie52interior.jpg",
+            "alt": "Cranchi E52 interior"
+        },
+        "tip":{
+            "id": 1,
+            "naziv": "jahta"
+        },
+        "proizvodjac":{
+            "id": 1,
+            "naziv": "Cranchi"
+        },
+        "model": "E52",
+        "cena": 904000,
+        "duzina": 15.82,
+        "sirina": 4.67,
+        "tezina": 20100,
+        "kapacitetRezervoara": 1570,
+        "opis" : "Rezervoar za otpadne vode, Sidro 35kg Ultramarine nerđajući čelik, Antialgin zaštita - crna boja (korito, propeleri i pogon IPS), dva premaza, Klima uređaj 60.000 BTU sistem hladne vode, sa toplotnom pompom, Bimini Top tenda na komandnom mostu sa nosačima od nerđajućeg čelika i prigušenim osvetljenjem, Bimini Top tenda na pramcu, Krmena \"skiper\" kabina sa tušem - wc - lavabo – dušek, Krmena komplet cirada sa bočnim zastorima i prolazima"
+    },
+    {
+        "id": 2,
+        "slika":{
+            "putanja": "images/carverc34.jpg",
+            "alt": "Carver C34"
+        },
+        "slikaInterior": {
+            "putanja": "images/carverc34interior.jpg",
+            "alt": "Carver C34 interior"
+        },
+        "tip":{
+            "id": 1,
+            "naziv": "jahta"
+        },
+        "proizvodjac":{
+            "id": 2,
+            "naziv": "Carver"
+        },
+        "model": "C34",
+        "cena": 199900,
+        "duzina": 10.82,
+        "sirina": 3.96,
+        "tezina": 7847,
+        "kapacitetRezervoara": 946,
+        "opis" : "Pramačni pomoćni elektromotor „bow thruster“, 7.0KW Kohler generator Diesel- 50Hz, 25.000BTU Klima uređaj, Sistem za izbacivanje otpadnih voda, Tank za otpadne vode, Displej za praćenje nivoa otpadne i tehničke vode, Sistem za spiranje sa svežom vodom, na krmi, Elektronski paket - E127 navigacioni paket opreme na komandnom mostu"
+    },
+    {
+        "id": 3,
+        "slika":{
+            "putanja": "images/monterey295.jpg",
+            "alt": "Monterey 295"
+        },
+        "slikaInterior": {
+            "putanja": "images/monterey295interior.jpg",
+            "alt": "Monterey 295 interior"
+        },
+        "tip":{
+            "id": 1,
+            "naziv": "jahta"
+        },
+        "proizvodjac":{
+            "id": 3,
+            "naziv": "Monterey"
+        },
+        "model": "295",
+        "cena": 138970,
+        "duzina": 8.84,
+        "sirina": 2.79,
+        "tezina": 3719,
+        "kapacitetRezervoara": 340,
+        "opis" : "Želkot bočna linija iznad trupa (drugacija od Arctic Ice), Želkot bočna linija na trupu (drugačija od Arctic Ice), Želkot akcentna linija na trupu (drugačija od Arctic Ice), Sidreno vitlo sa sidrom, kanapom i lancem, Priprema instalacije za sidreno vitlo, Sidro od nerdjajućeg čelika, Reflektor sa daljinskom kontrolom, Rol Bar nadogradnja, električno sklapanje, sa osvetljenjem iznad"
+    },
+    {
+        "id": 4,
+        "slika":{
+            "putanja": "images/monterey378.jpg",
+            "alt": "Monterey 378"
+        },
+        "slikaInterior": {
+            "putanja": "images/monterey378interior.jpg",
+            "alt": "Monterey 378 interior"
+        },
+        "tip":{
+            "id": 1,
+            "naziv": "jahta"
+        },
+        "proizvodjac":{
+            "id": 3,
+            "naziv": "Monterey"
+        },
+        "model": "378",
+        "cena": 337446,
+        "duzina": 11.28,
+        "sirina": 3.35,
+        "tezina": 7.257,
+        "kapacitetRezervoara": 757,
+        "opis" : "Sidreno vitlo sa sidrom, kanapom i lancem, Priprema instalacije za sidreno vitlo, Nadogradnja užeta sidra (sve lanac umesto kanapa i lanca), Sidro od nerdjajućeg čelika, Bočna linija iznad trupa u boji (drugacija od Arctic Ice), Bočna linija na trupu u boji (drugacija od Arctic Ice), Želkot akcentna linija, 'Cone'' vodootporni zvučnici za Rol Bar sa 4-kan. poj. (zahteva Rol Bar i Stereo paket)"
+    },
+    {
+        "id": 5,
+        "slika":{
+            "putanja": "images/regal.jpg",
+            "alt": "Regal LS 4C"
+        },
+        "slikaInterior": {
+            "putanja": "",
+            "alt": ""
+        },
+        "tip":{
+            "id": 2,
+            "naziv": "gliser"
+        },
+        "proizvodjac":{
+            "id": 4,
+            "naziv": "Regal"
+        },
+        "model": "LS 4C",
+        "cena": 78800,
+        "duzina": 7.42,
+        "sirina": 2.50,
+        "tezina": 2064,
+        "kapacitetRezervoara": 212,
+        "opis" : "Bokovi plovila Sand Stone (bež) boji, Bočna linija na koritu u Black (crna) boji, Dno korita u Sand Stone (bež) boji, Enterijer plovila - Pebble Beach (braon / bež nijanse enterijera), Punjač za akumulatore, Prekidač za dva akumulatora, Tuš na krmi sa vodom pod pritiskom, Prekrivač pramca - Black (crna) boja"
+    },
+    {
+        "id": 6,
+        "slika":{
+            "putanja": "images/searay.jpg",
+            "alt": "Sea Ray SLX 400"
+        },
+        "slikaInterior": {
+            "putanja": "",
+            "alt": ""
+        },
+        "tip":{
+            "id": 2,
+            "naziv": "gliser"
+        },
+        "proizvodjac":{
+            "id": 5,
+            "naziv": "Sea Ray"
+        },
+        "model": "SLX 400",
+        "cena": 18900,
+        "duzina": 12.04,
+        "sirina": 3.68,
+        "tezina": 7722,
+        "kapacitetRezervoara": 946,
+        "opis" : "Materijal: 0.100 5052 marin aluminijum, NEMA PRIKOLICU, Plovnost čamca prevazilazi najrigoroznije NMMA® standard i zahteve Američke obalske straže, Uške za vezivanje na pramcu i krmi, Bitve 4 komada, Čamac je napravljen ceo od aluminijuma, bez korišćenja drvene konstrukcije, Aluminijumski pod je duple debljine (4,83 mm) za dodatnu krutost i tihu vožnju, Kompletno zavareno V korito sa uglom od 7° za bolju upravljivost i mirnu vožnju"
+    },
+    {
+        "id": 7,
+        "slika":{
+            "putanja": "images/monterey238.jpg",
+            "alt": "Monterey 238"
+        },
+        "slikaInterior": {
+            "putanja": "",
+            "alt": ""
+        },
+        "tip":{
+            "id": 2,
+            "naziv": "gliser"
+        },
+        "proizvodjac":{
+            "id": 3,
+            "naziv": "Monterey"
+        },
+        "model": "238",
+        "cena": 60605,
+        "duzina": 7.01,
+        "sirina": 2.59,
+        "tezina": 1762,
+        "kapacitetRezervoara": 197,
+        "opis" : "Krmeni tuš sa vodom pod pritiskom (samo hladna voda), Dno trupa u boji (drugačije od Artic Ice), Želkot akcentna linija na trupu, Super Sport Grafika, Wakeboard Rol Bar beli ili crni (uključuje Wakeboard Bimini), 'Cone'' vodootporni zvučnici za Rol Bar sa 4-kan. poj. (zahteva Rol Bar i Stereo paket), Produžena krmena platforma popločana SeaDek-om (braon ili sivi), Podvodna LED svetla"
+    },
+    {
+        "id": 8,
+        "slika":{
+            "putanja": "images/tracker.jpg",
+            "alt": "Tracker V175"
+        },
+        "slikaInterior": {
+            "putanja": "",
+            "alt": ""
+        },
+        "tip":{
+            "id": 2,
+            "naziv": "gliser"
+        },
+        "proizvodjac":{
+            "id": 6,
+            "naziv": "Tracker"
+        },
+        "model": "V175",
+        "cena": 15555,
+        "duzina": 5.61,
+        "sirina": 2.46,
+        "tezina": 692,
+        "kapacitetRezervoara": 96.5,
+        "opis" : "Vinil nadogradnja, Sedište \"Caddy\", VERSATRACK® držač za čaše, VERSATRACK® držač alata, VERSATRACK® prostor za pribor, VERSATRACK® daska za sečenje, VERSATRACK® komplet držača za 4 šipke, VERSATRACK® donji montažni držač"
+    }
+]

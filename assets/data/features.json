@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "src" : "images/iznajmljivanje.jpg",
+        "alt" : "Iznajmljivanje",
+        "h4" : "Iznajmljivanje plovila",
+        "pHeader" : "Iznajmite plovilo po povoljnim cenama",
+        "pFeatures" : "Kompanija Barmen Yachting nudi svim potencijalnim klijentima mogućnost iznajmljivanja plovila po čarter principu."
+    },
+    {
+        "id" : 2,
+        "src" : "images/marina.jpg",
+        "alt" : "Marina",
+        "h4" : "Marina",
+        "pHeader" : "Raskomotite se",
+        "pFeatures" : "Ekskluzivni brod-marina na dva nivoa smešten je na jednom od najlepših delova Zemunskog keja, sa pogledom na Veliko ratno ostrvo."
+    },
+    {
+        "id" : 3,
+        "src" : "images/servis.jpg",
+        "alt" : "Servis",
+        "h4" : "Servis plovila",
+        "pHeader" : "Servisirajte Vaše plovilo povoljno",
+        "pFeatures" : "Kompanija Barmen Yachting poseduje savremeni servisni prostor koji zadovoljava sve standarde plovila različitih dimenzija i brendova."
+    },
+    {
+        "id" : 4,
+        "src" : "images/zimovnik.jpg",
+        "alt" : "Zimovnik",
+        "h4" : "Zimovnik",
+        "pHeader" : "Neka Vaše plovilo prezimi kod nas",
+        "pFeatures" : "Kapacitet dva zatvorena zimovnika, koja se nalaze u sklopu kompanije Barmen Yachting, obuhvata 1260 m² moderno i funkcionalno uređenog enterijera."
+    }
+]

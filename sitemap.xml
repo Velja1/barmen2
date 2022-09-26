@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sajtweb.000webhostapp.com/index.html</loc>
+  <lastmod>2021-03-13T15:58:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sajtweb.000webhostapp.com/plovila.html</loc>
+  <lastmod>2021-03-13T15:58:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sajtweb.000webhostapp.com/prodaja.html</loc>
+  <lastmod>2021-03-13T15:58:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sajtweb.000webhostapp.com/proizvodi.html</loc>
+  <lastmod>2021-03-13T15:58:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sajtweb.000webhostapp.com/oautoru.html</loc>
+  <lastmod>2021-03-13T15:58:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sajtweb.000webhostapp.com/dokumentacija.pdf</loc>
+  <lastmod>2021-03-13T15:54:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sajtweb.000webhostapp.com/poredjenje.html</loc>
+  <lastmod>2021-03-13T15:58:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

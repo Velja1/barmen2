@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "naziv": "Po dužini - rastuće"
+    },
+    {
+        "id": 2,
+        "naziv": "Po dužini - opadajuće"
+    },
+    {
+        "id": 3,
+        "naziv": "Po ceni - rastuće"
+    },
+    {
+        "id": 4,
+        "naziv": "Po ceni - opadajuće"
+    }
+]
