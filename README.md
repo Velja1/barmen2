@@ -6,4 +6,4 @@
 
 Barmen yachting is a website whose purpose is to present a fictitious company engaged in import and sales.
 Documentation which contains all relevant informations about this project is located in file
-[dokumentacija.pdf](https://github.com/Velja1/barmen2/blob/main/dokumentacija.pdf).
+[dokumentacija.pdf](https://github.com/Velja1/barmen2/blob/main/dokumentacija.pdf). Documentation is in the Serbian language.
